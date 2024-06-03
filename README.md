@@ -1,4 +1,5 @@
 # SubwayDB
 A database containing information on train delays in NYC  
 Built using postgres  
-Now will be updated use pandas to visualize this information
+Pandas folder contains visualizations of this information in trains.ipynb along with a notebook containing information on traffic accidents in New York City  
+Trains.py is a wip that will use sqlalchemy for this data 
